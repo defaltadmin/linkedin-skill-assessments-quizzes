@@ -520,3 +520,21 @@ public int Password
 - [ ] finally, throw, valid, invalid
 
 **Reference:** [Tutorial Point](https://www.tutorialspoint.com/csharp/csharp_exception_handling.htm#:~:text=Exceptions%20provide%20a%20way%20to,catch%2C%20finally%2C%20and%20throw.)
+    
+#### Q57. What is the readonly keyword used for?
+- [ ] to declare a static variable that must be set at runtime 
+- [ ] to declare a member variable a constant, while allowing the value to be calculated at runtime
+- [ ] to declare a member variable that cannot be calculated at runtime
+- [ ] to declare a static variable that must be set at compile time 
+    
+#### Q58. Which is a valid built-in C# Exception class? 
+- [ ] IndexOutOfPocket 
+- [ ] ArgumentNullException 
+- [ ] ArgumentNullValue 
+- [ ] InvalidFormatFound 
+
+#### Q59. Your application has a value type called username that needs to be able to accept null values, but this is generating compile-time errors. How would you fix this in code?
+- [ ] string? username = null; 
+- [ ] Optional<string> username = null; 
+- [ ] Null<string> username = null; 
+- [ ] Type<string>? username = null;
