@@ -385,3 +385,32 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 - [ ] Use a column chart.
 - [ ] Use a line chart.
 - [ ] Use a scatter chart.
+
+#### Q51. How can you modify your presentation's entire set of colors with a single change? 
+
+- [ ] Apply a color template. 
+- [ ] Customize a color fill.
+- [ ] Apply a color theme. 
+- [ ] Apply a color palette. 
+
+#### Q52. You want to use a morph transition between two slides. How do you set up the slides? 
+
+- [ ] The two slides must have at least one object in common that is in the same position on the second slide. 
+- [ ] The two slides must have at least one object in common that is in a different position on the second slide. 
+- [ ] The second slide must have different objects that are in the same position as the objects on the first slide. 
+- [ ] The two slides must have multiple objects in common with different names in the Selection pane. 
+
+#### Q53. You want to group your slides based on their content to better organize your presentation. How would you accomplish this? 
+
+- [ ] Create an outline in the outline view and rearrange slides. 
+- [ ] Add a table of contents slide and link the remaining slides to it. 
+- [ ] Create custom shows and add the slides into the shows. 
+- [ ] Add sections and move the slides into the appropriate sections. 
+
+#### Q54. A colleague has given you a presentation file, and you want to use one of the slides from that presentation in your own. How would you do this? 
+
+- [ ] Use the Duplicate Slides command. 
+- [ ] Use the Import Slides command. 
+- [ ] Use the Insert Slides command. 
+- [ ] Use the Reuse Slides command. 
+
