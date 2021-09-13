@@ -212,3 +212,24 @@
 - [x] A program has a memory leak.
 - [ ] There is no problem. It's normal for available memory to decrease the longer you use the system.
 - [ ] Another user has signed into the system 
+
+#### Q25. What is the name of the hardware that provides a computer with network access? 
+
+- [ ] THREAD 
+- [ ] BIOS 
+- [ ] RJ-45 
+- [ ] router 
+
+#### Q26. Which type of power connector is this? 
+
+- [ ] Edison
+- [ ] PCI 
+- [ ] SATA
+- [ ] Molex 
+
+#### Q27. You notice that a program crashes at a specific time. Which tool can you use in Windows to discover the cause? 
+
+- [ ] Event Viewer 
+- [ ] Resource Monitor
+- [ ] Task Manager 
+- [ ] Performance Monitor 
