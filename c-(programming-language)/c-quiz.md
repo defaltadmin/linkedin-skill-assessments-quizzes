@@ -451,3 +451,21 @@ printf("%d", f1(5));
 - [x] `char string = "Hello World";`
 - [ ] `char string[20] = {'H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd'};`
 - [ ] `char string[] = "Hello World";`
+
+#### Q35. How many times does the code inside the while loop get executed in this program? 
+
+```1 main() { 
+2 int x=1; 
+3 while(x++<100) { 
+4   x*=x; 
+5   if (x<10) continue; 
+6   if (x>50) break; 
+7 ) 
+8 ) 
+```
+
+- [ ] 100 
+- [ ] 50 
+- [ ] 5 
+- [ ] 3 
+
