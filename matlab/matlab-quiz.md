@@ -895,3 +895,18 @@ a =
 - [ ]
 
 [Reference](https://mathworks.com/company/newsletters/articles/matrix-indexing-in-matlab.html)
+
+#### Q56. What is a reason to save a MAT-file using the -v7.3 flag? 
+
+- [ ] to avoid HDF5 overhead in MAT-file 
+- [ ] to use compression by default 
+- [ ] to include a variable greater than 2GB 
+- [ ] to ensure backward compatibility 
+
+#### Q57. You've just plotted some data and want to change the color behind the lines you've plotted to black. Which code block will accomplish this? 
+
+- [ ] h_a = axes; set(h_a,'Color',[0 0 0]); 
+- [ ] h_f = gcf; set(h_f,'Color',[0 0 0]); 
+- [ ] h_f = figure; set(h_f,'Color',[0 0 0]); 
+- [ ] h_a = gca; set(h_a,'Color',[0 0 0]); 
+
