@@ -335,3 +335,22 @@ D. They must have no duplicate data rows.
 - [ ] SUM
 - [ ] PICARD
 - [ ] COMPARE
+
+#### Q44. To improve the Quick Insights supplied to your dataset's users, what should you do? (Select all that apply.) 
+A. Hide columns that don't return useful results. 
+B. Display only one date column. 
+C. Hide redundant columns (e.g., keep StateName, hide StateAbbreviation). 
+D. Rename columns to make them more user friendly. 
+
+- [ ] B, C 
+- [ ] A, C, D 
+- [ ] A, B, C 
+- [ ] A, B, C, D 
+
+#### Q45. Page 1 of your report includes multiple visualizations. To filter just the bar chart visualization, what type of filter should you use?
+
+- [ ] bar chart 
+- [ ] slicer 
+- [ ] page-level 
+- [ ] visual level 
+
