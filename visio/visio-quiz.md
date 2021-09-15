@@ -303,3 +303,61 @@
 - [x] .dwg
 - [ ] .xps
 - [ ] .pdf
+
+#### Q35. Which of the four levels of the diagram design hierarchy includes alternate colors and shape designs so you can add your own flair to a drawing while retaining the overall look? 
+
+- [ ] effects 
+- [ ] themes 
+- [ ] variant 
+- [ ] quick styles 
+
+#### Q36. You're able to select a shape on your drawing, but you can't work with it as you expect. What could be preventing you from working with this shape after it is selected? 
+
+- [ ] The shape is connected to another shape. 
+- [ ] The shape is protected against selection. 
+- [ ] The shape is part of a locked layer. 
+- [ ] The shape is in a group. 
+
+#### Q37. Which is not an example of a reason that a shape designer might use sets of shapes grouped together to create a more sophisticated appearance or behavior? 
+
+- [ ] to display text in multiple places on the shape 
+- [ ] to prevent different parts of the shape from responding differently to external changes 
+- [ ] to protect the alignment of subshapes within the group 
+- [ ] to display different colors on different parts of the grouped shape 
+
+#### Q38. Visio includes a document-level property that you can use to shift all relative hyperlinks in a document from one location to another. What is this property called? 
+
+- [ ] relative path 
+- [ ] hyperlink base 
+- [ ] relative hyperlink 
+- [ ] absolute hyperlink 
+
+#### Q39. Which is one of the eight supported Visio shape data types? 
+
+- [ ] Floating Point 
+- [ ] XML 
+- [ ] Integer 
+- [X] Fixed List
+
+[Reference](https://www.universalclass.com/articles/computers/data-tools-use-to-developed-intricate-drawings-in-microsoft-visio-2016.htm)
+
+#### Q40. You have designed an Ethernet network, but there are extra, unused connection points outside the Ethernet shape. How do you fix this issue? 
+
+- [ ] Delete the unneeded connection points that are outside of the Ethernet segment shape. 
+- [ ] Click one of the control handles in the middle of the Ethernet segment shape and drag it out of the middle. 
+- [ ] Hide unused connection points by dragging them back into the interior of the Ethernet shape. 
+- [ ] Drag the unneeded connection points away from the Ethernet shape to the outside of the diagram. 
+
+#### Q41. How does the Organization Chart Wizard treat predefined data fields in org chart shapes? 
+
+- [ ] It creates new fields and adds data to them, deletes existing fields and the data in them, and generates new fields that contain no data. 
+- [ ] It renames existing fields, adds data to these newly named fields, and removes any fields that do not contain any data. 
+- [ ] It adds data to existing fields, creates new fields with additional data, and removes any fields that do not contain any data. 
+- [ ] It replaces data in existing fields, creates new fields and adds data to them, and generates new fields even if they contain no data. 
+
+#### Q42. When using AutoConnect. what determines the four shapes that will appear in the AutoConnect mini toolbar? 
+
+- [ ] They are the four most frequently used shapes. 
+- [ ] They are the first four shapes in the Quick Shapes section of the current stencil. 
+- [ ] They are the four Quick Shapes selected in the Visio options. 
+- [ ] They are the four most recently used shapes. 
